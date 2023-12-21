@@ -1,3 +1,4 @@
-var s1 = Symbol("Horizon");
-var s2 = "Horizon";
+"use strict";
+let s1 = Symbol("Horizon");
+let s2 = "Horizon";
 console.log(typeof s1);

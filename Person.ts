@@ -23,5 +23,5 @@ class Person{
     }
 }
 
-let a = new Person('Robert')
-a.direBonjour()
+let Robert = new Person('Robert')
+Robert.direBonjour()
