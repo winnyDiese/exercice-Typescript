@@ -68,4 +68,4 @@ var Person = function () {
         _a;
 }();
 var a = new Person('Robert');
-a;
+a.direBonjour();

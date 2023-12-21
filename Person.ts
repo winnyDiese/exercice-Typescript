@@ -24,3 +24,4 @@ class Person{
 }
 
 let a = new Person('Robert')
+a.direBonjour()
